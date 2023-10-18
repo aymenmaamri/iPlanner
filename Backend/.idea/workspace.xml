@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="74355e6e-48b8-4b5b-8a19-5561c515fa1e" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../iplanner/.babelrc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../iplanner/.eslintrc.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../iplanner/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../iplanner/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../iplanner/components/src/components/AppHeader.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../iplanner/components/src/components/Planning/CardHand.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../iplanner/components/src/components/Planning/CardHandConfig.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../iplanner/components/src/components/Planning/PlanningBoard.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../iplanner/components/src/components/Planning/PlanningCard.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../iplanner/components/src/components/Todos/AddTodo.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../iplanner/components/src/components/Todos/Todos.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../iplanner/components/src/components/cardUtils/utils.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../iplanner/components/src/components/common/FlexRow.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../iplanner/components/src/components/constants/styling/boardBackground.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../iplanner/components/src/components/constants/styling/constants.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../iplanner/components/src/components/state/CardHandState.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../iplanner/components/src/components/state/TodosState.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../iplanner/components/src/components/state/selectedCardState.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../iplanner/components/src/modules/Card.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../iplanner/components/src/modules/CardBoard.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../iplanner/components/src/modules/Player.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../iplanner/next.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../iplanner/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../iplanner/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../iplanner/pages/_app.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../iplanner/pages/_document.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../iplanner/pages/about.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../iplanner/pages/api/hello.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../iplanner/pages/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../iplanner/pages/plan.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../iplanner/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../iplanner/public/next.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../iplanner/public/thirteen.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../iplanner/public/vercel.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../iplanner/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../iplanner/tsconfig.json" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2S91UzozWxw3p2pUxuYgOvwO1kd" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/Users/aymenmaamri/Desktop/Personal Sstuff/iPlanner/Backend",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="74355e6e-48b8-4b5b-8a19-5561c515fa1e" name="Changes" comment="" />
+      <created>1688544003334</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1688544003334</updated>
+      <workItem from="1688544004261" duration="365000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
